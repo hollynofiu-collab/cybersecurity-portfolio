@@ -81,5 +81,12 @@ SKILLS DEMONSTRATED.
 
 -Router-on-a-stick.
 
--IP Addressing.
+-IP Addressing and Subnetting.
+
+
+WIRESHARK TRAFFIC ANALYSIS
+
+Objective; Capture and analyze DNS, HTTP, TCP handshake, and TLS traffic.
+
+-
 
