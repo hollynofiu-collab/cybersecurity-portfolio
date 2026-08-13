@@ -69,7 +69,7 @@ TOOLS.
 
 - <h2> Portfolio Projects</h2>
 
-VLAN SEGMENTATION.
+1.VLAN SEGMENTATION.
 
 Objective: Design and configure multiple VLANs with inter-VLAN communication.
 
@@ -84,9 +84,78 @@ SKILLS DEMONSTRATED.
 -IP Addressing and Subnetting.
 
 
-WIRESHARK TRAFFIC ANALYSIS
+2.WIRESHARK TRAFFIC ANALYSIS
 
 Objective; Capture and analyze DNS, HTTP, TCP handshake, and TLS traffic.
 
--
+SKILLS DEMONSTRATED.
+
+-Packet inspection
+
+-Protocol analysis.
+
+-Identifying normal vs suspicious Traffic.
+
+-TCP session analysis.
+
+3.WAZUH Agent Monitoring.
+
+Objective: Deploy and monitor Wazuh agents on Linux systems.
+
+SKILLS DEMONSTRATED.
+
+-Agent installation.
+
+-Service management.
+
+-Log monitoring.
+
+-Security event analysis.
+
+
+4.ACL Security Lab.
+
+Objective: Restrict traffic between VLANs using access control lists.
+
+SKILLS DEMONSTRATED.
+
+-Standard ACLs.
+
+-Extended ACLs.
+
+-Traffic Filtering.
+
+-Network Hardening.
+
+
+<h2>SCREENSHOTS</h2>
+
+-Wireshark packet captures.
+
+-Wazuh dashboard alerts.
+
+-Packet tracer VLAN topology.
+
+-ACL configuration results.
+
+
+<h2>CURRENT LEARNING GOALS</h2>
+
+-SOC Analyst workflow.
+
+-SIEM use cases.
+
+-Threat hunting basics.
+
+-Linux Hardening.
+
+-Firewall Administration.
+
+-Network Security Monitoring.
+
+
+<h2>CONNECT WITH ME</h2>
+
+
+
 
