@@ -156,6 +156,14 @@ SKILLS DEMONSTRATED.
 
 <h2>CONNECT WITH ME</h2>
 
+GitHub: Https://github.com/hollynofiu-collab.
+
+LinkedIn: Https://linkedin.com/in/olamide-nofiu
+
+Twitter: https://x.com/TStorywhisperer
+
+Email: Hollynofiu@gmail.com.
+
 
 
 
