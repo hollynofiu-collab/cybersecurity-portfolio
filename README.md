@@ -81,7 +81,9 @@ SKILLS DEMONSTRATED.
 
 -Router-on-a-stick.
 
--IP Addressing and Subnetting.
+-IP Addressing and Subnetting - (https://github.com/hollynofiu-collab/Packet-tracer-lan-simulation-lab)
+
+-Wireless-router-cable-modem-home-network-lab - (https://github.com/hollynofiu-collab/wireless-router-cable-modem-home-network-lab-/blob/main/README.md)
 
 
 2.WIRESHARK TRAFFIC ANALYSIS
