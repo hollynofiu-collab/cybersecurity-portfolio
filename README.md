@@ -96,10 +96,13 @@ SKILLS DEMONSTRATED.
 
 -Identifying normal vs suspicious Traffic.
 
--TCP session analysis.
+-TCP session analysis. 
 
-3.WAZUH Agent Monitoring.
+-Repository (https://github.com/hollynofiu-collab/Wireshark-traffic-analysis)
 
+
+3. 👨‍💻WAZUH Agent Monitoring
+   
 Objective: Deploy and monitor Wazuh agents on Linux systems.
 
 SKILLS DEMONSTRATED.
