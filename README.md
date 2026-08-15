@@ -24,9 +24,13 @@
 
 NETWORKING.
 
+-IP Addressing and Subnetting - https://github.com/hollynofiu-collab/Packet-tracer-lan-simulation-lab
+
+-Home-network setup -  https://github.com/hollynofiu-collab/wireless-router-cable-modem-home-network-lab-/blob/main/README.md
+
 -VLAN configuration
 
--Router-on-a-stick
+-Router-on-a-stick - https://github.com/hollynofiu-collab/Router-On-a-Stick-Lab
 
 -Inter VLAN Routing
 
@@ -81,9 +85,9 @@ SKILLS DEMONSTRATED.
 
 -Router-on-a-stick.
 
--IP Addressing and Subnetting - (https://github.com/hollynofiu-collab/Packet-tracer-lan-simulation-lab)
+-IP Addressing and Subnetting 
 
--Wireless-router-cable-modem-home-network-lab - (https://github.com/hollynofiu-collab/wireless-router-cable-modem-home-network-lab-/blob/main/README.md)
+-Wireless-router-cable-modem-home-network-lab 
 
 
 2.WIRESHARK TRAFFIC ANALYSIS
